@@ -1,10 +1,10 @@
 {
-    "name": "Sans titre",
+    "name": "yahboom",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "Sans titre": "github:yannickgillet/makecode-extension#eecb4e634a3025e797d526f94729f2bd5f9987a8",
+        "yahboom": "github:yannickgillet/makecode-extension#eecb4e634a3025e797d526f94729f2bd5f9987a8",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.12"
     },
     "files": [
